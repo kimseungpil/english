@@ -7,6 +7,7 @@ About the Eclipse Foundation
 
     Services of the Foundation
     파운데이션의 서비스 
+<<<<<<< HEAD
         IT Infrastructure IT 
         Intellectual Property (IP) Management
         Development Community Support
@@ -15,12 +16,25 @@ About the Eclipse Foundation
     What is the history of Eclipse?
 
 What is Eclipse and the Eclipse Foundation?
+=======
+    
+        IT Infrastructure IT 인프라
+        Intellectual Property (IP) Management 지적 재산권 (IP) 관리
+        Development Community Support 개발 커뮤니티 지원
+        Ecosystem Development 생태계 개발
+    A Unique Model for Open Source Development 오픈 소스 개발을위한 독특한 모델
+    What is the history of Eclipse? Eclipse의 역사는 무엇입니까?
+
+What is Eclipse and the Eclipse Foundation?
+Eclipse와 Eclipse Foundation이란 무엇입니까?
+>>>>>>> 12960ba230cd5b6224a911cc12644068bbefcd2a
 
 Eclipse is a community for individuals and organizations who wish to collaborate 
 on commercially-friendly open source software. 
 Eclipse는 공동 작업을 원하는 개인 및 조직을위한 커뮤니티입니다.
 상업적으로 친숙한 오픈 소스 소프트웨어.
 
+<<<<<<< HEAD
 Its projects are focused on building an open development platform comprised of 
 extensible frameworks, tools and runtimes for building, deploying and 
 managing software across the lifecycle. 
@@ -280,6 +294,77 @@ found on our Eclipse logos page.
 소프트웨어 라이선스, 웹 사이트 이용 약관 및 법률 FAQ에 대해서는 
 법률 자료 페이지를 참조하십시오. Eclipse 로고 및 그래픽은 
 Eclipse 로고 페이지에서 찾을 수 있습니다.
+=======
+Its projects are focused on building an open development platform comprised of extensible frameworks, tools and runtimes for building, deploying and managing software across the lifecycle. 
+이 프로젝트는 수명주기 전반에 걸쳐 소프트웨어를 구축, 배포 및 관리 할 수있는 확장 가능한 프레임 워크, 도구 및 런타임으로 구성된 개방형 개발 플랫폼을 구축하는 데 중점을 둡니다.
+
+The Eclipse Foundation is a not-for-profit, member supported corporation that hosts the Eclipse projects and helps cultivate both an open source community and an ecosystem of complementary products and services.이클립스 재단은 이클립스 프로젝트를 호스팅하고 오픈 소스 커뮤니티와 보완 제품 및 서비스의 생태계를 육성하는 데 도움이되는 비영리 회원 지원 법인입니다.
+
+The Eclipse Project was originally created by IBM in November 2001 and supported by a consortium of software vendors. 이클립스 프로젝트는 원래 2001 년 11 월에 IBM에서 만들었으며 소프트웨어 벤더의 컨소시엄이 지원했습니다.
+
+The Eclipse Foundation was created in January 2004 as an independent not-for-profit corporation to act as the steward of the Eclipse community. 이클립스 재단은 2004 년 1 월 이클립스 커뮤니티의 청지기 역할을하는 독립적 인 비영리 단체로 설립되었습니다.
+
+The independent not-for-profit corporation was created to allow a vendor neutral and open, transparent community to be established around Eclipse. Today, the Eclipse community consists of individuals and organizations from a cross section of the software industry.독립적인 비영리 단체는 Eclipse 주변에서 벤더 중립적이고 개방적이고 투명한 커뮤니티를 구축 할 수 있도록 만들어졌습니다. 오늘날 이클립스 커뮤니티는 소프트웨어 업계의 여러 분야에서 개인과 조직으로 구성됩니다.
+
+The Eclipse Foundation is funded by annual dues from our members and governed by a Board of Directors.이클립스 재단 (Eclipse Foundation)은 회원들로부터 연례 회비를 받고 이사회가 운영합니다.
+
+Strategic Developers and Strategic Consumers hold seats on this Board, as do representatives elected by Add-in Providers and Open Source committers. 전략적 개발자 및 전략적 소비자는 애드 인 공급자 및 오픈 소스 커미터가 선출 한 대표자와 마찬가지로 이사회 의석을 개최합니다.
+
+The Foundation employs a full-time professional staff to provide services to the community but does not employ the open source developers, called committers, which actually work on the Eclipse projects. Eclipse committers are typically employed by organizations or are independent developers that volunteer their time to work on an open source project.Foundation은 전담 전문 인력을 고용하여 커뮤니티에 서비스를 제공하지만 실제로 Eclipse 프로젝트에서 작업하는 커미터라고하는 오픈 소스 개발자는 고용하지 않습니다. 이클립스 커미터는 일반적으로 조직에 고용되어 있거나 오픈 소스 프로젝트에서 일할 시간을 자원하는 독립 개발자이다.
+
+In general, the Eclipse Foundation provides four services to the Eclipse community: 1) IT Infrastructure, 2) IP Management,3) Development Process, and 4) Ecosystem Development. Full-time staff are associated with each of these areas and work with the greater Eclipse community to assist in meeting the needs of the stakeholders.일반적으로 이클립스 재단은 1) IT 인프라, 2) IP 관리, 3) 개발 프로세스, 4) 에코 시스템 개발 등 4 가지 서비스를 Eclipse 커뮤니티에 제공한다. 전임 직원은 각 영역과 관련되어 있으며 이해 관계자의 요구를 충족시키는 데 도움이되는 더 큰 Eclipse 커뮤니티와 협력합니다.
+
+IT Infrastructure IT 인프라
+
+The Eclipse Foundation manages the IT infrastructure for the Eclipse open source community, including Git code repositories, Bugzilla databases, development oriented mailing lists and forums, download site and web site. The infrastructure is designed to provide reliable and scalable service for the committers developing the Eclipse technology and the consumers who use the technology. Eclipse Foundation은 Git 코드 저장소, Bugzilla 데이터베이스, 개발 지향 메일 링 목록 및 포럼, 다운로드 사이트 및 웹 사이트를 비롯하여 Eclipse 오픈 소스 커뮤니티를위한 IT 인프라를 관리합니다. 인프라는 이클립스 기술과이 기술을 사용하는 소비자를 개발하는 커미터에게 안정적이고 확장 가능한 서비스를 제공하도록 설계되었습니다.
+
+
+
+
+Intellectual Property (IP) Management 지적 재산권 (IP) 관리
+
+An important aspect of Eclipse is the focus on enabling the use of open source technology in commercial software products and services. We consciously promote and encourage software vendors to use Eclipse technology for building their commercial software products and services. This is made possible by the fact that all Eclipse projects are licensed under the Eclipse Public License (EPL), a commercial friendly OSI approved licensed. Eclipse의 중요한 측면은 상용 소프트웨어 제품 및 서비스에 오픈 소스 기술을 사용할 수 있도록하는 데 있습니다. 우리는 소프트웨어 벤더가 상용 소프트웨어 제품 및 서비스를 빌드하기 위해 Eclipse 기술을 사용하도록 의식적으로 장려하고 장려합니다. 이는 모든 Eclipse 프로젝트가 상업적으로 친숙한 OSI 승인 라이센스 인 Eclipse Public License (EPL)에 의거하여 라이센스를 받음으로써 가능합니다.
+The Eclipse Foundation also undertakes a number of steps to attempt to ensure the pedigree of the intellectual property contained within Eclipse projects. The first step in the due diligence process is trying to ensure that all contributions are made by the rightful copyright holder and under the Eclipse Public License (EPL). All committers are required to sign a committer agreement that stipulates all of their contributions are their original work and are being contributed under the EPL. If a committer is sponsored to work on an Eclipse project by a Member organization, then that organization is asked to sign a Member Committer Agreement to ensure the intellectual property rights of the organization are contributed under the EPL. 이클립스 재단은 또한 이클립스 프로젝트에 포함 된 지적 재산권의 혈통을 확보하기 위해 여러 단계를 거친다. 실사 프로세스의 첫 번째 단계는 정당한 저작권 소유자와 Eclipse Public License (EPL)에 의한 모든 기여를 보장하는 것입니다. 모든 커미터는 모든 기부금을 원작으로 규정하고 EPL에 따라 기부자로 지정하는 커미터 계약서에 서명해야합니다. 커미터가 회원 조직에 의해 Eclipse 프로젝트 작업을 위해 후원 된 경우 조직의 지적 재산권이 EPL에 따라 공헌 될 수 있도록 멤버 커미터 계약서에 서명해야합니다.
+
+The second step is that the source code related to all contributions which are developed outside of the Eclipse development process are processed through the Eclipse Foundation IP approval process. This process includes analyzing selected code contributions to try to ascertain the provenance of the code, and license compatibility with the EPL. Contributions that contain code licensed under licenses not compatible with the EPL are intended to be screened out through this approval process and thus not added to an Eclipse project. The end result is a level of confidence that Eclipse open source projects release technology that can be safely distributed in commercial products.두 번째 단계는 Eclipse 개발 프로세스 외부에서 개발 된 모든 기여와 관련된 소스 코드가 Eclipse Foundation IP 승인 프로세스를 통해 처리된다는 것입니다. 이 프로세스에는 선택한 코드 기여도를 분석하여 코드의 출처를 확인하고 EPL과의 라이센스 호환성을 확인합니다. EPL과 호환되지 않는 라이센스로 라이센스가 부여 된 코드를 포함하는 기고 물은이 승인 프로세스를 통해 선별되어 Eclipse 프로젝트에 추가되지 않습니다. 최종 결과는 Eclipse 오픈 소스 프로젝트가 상업용 제품에 안전하게 배포 할 수있는 기술을 공개한다는 자신감의 수준입니다.
+
+
+Development Community Support
+개발 커뮤니티 지원
+
+The Eclipse community has a well earned reputation for providing quality software in a reliable and predictable fashion. This is due to the commitment of the committers and organizations contributing to the open source projects. The Eclipse Foundation also provides services and support for the projects to help them achieve these goals.Eclipse 커뮤니티는 신뢰할 수 있고 예측 가능한 방식으로 양질의 소프트웨어를 제공함으로써 명성을 얻었다. 이는 오픈 소스 프로젝트에 기여한 커미터와 조직의 헌신 때문입니다. 또한 Eclipse Foundation은 이러한 목표를 달성하는 데 도움이되는 프로젝트에 대한 서비스 및 지원을 제공합니다.
+
+The Foundation staff help implement the Eclipse Development Process. This process assists new project startup and ensures that all Eclipse projects are run in an open, transparent and meritocratic manner. As part of this process, the Foundation organizes member community reviews for projects to ensure consistent interaction between the projects and the broader membership.재단 직원은 Eclipse 개발 프로세스를 구현하는 데 도움을줍니다. 이 프로세스는 새로운 프로젝트 시작을 지원하고 모든 Eclipse 프로젝트가 개방적이고 투명하며 능력있는 방식으로 실행되도록합니다. 이 과정의 일환으로, 재단은 프로젝트에 대한 회원 커뮤니티 검토를 조직하여 프로젝트와 더 광범위한 회원 간의 일관된 상호 작용을 보장합니다.
+
+The Eclipse community organizes an annual release train that provides a coordinated release of those Eclipse projects which wish to participate. The release train makes it easier for downstream consumers to adopt new releases of the projects because 1) all the projects are available on the same schedule, so you don't have to wait for independent project schedules, and 2) a level of integration testing occurs before the final release to help identify cross project issues. Eclipse 커뮤니티는 참여하고자하는 이클립스 프로젝트의 통합 릴리스를 제공하는 연례 릴리스 트레인을 구성합니다. 릴리스 트레인을 사용하면 다운 스트림 소비자가 새 릴리스의 프로젝트를 쉽게 채택 할 수 있습니다. 1) 모든 프로젝트를 동일한 일정에 사용할 수 있으므로 독립 프로젝트 일정을 기다릴 필요가 없으며 2) 통합 테스트 수준 프로젝트 간 문제를 식별하는 데 도움이되도록 최종 릴리스 전에 발생합니다.
+
+
+Ecosystem Development 생태계 개발
+
+A unique aspect of the Eclipse community and the role of the Eclipse Foundation is the active marketing and promotion of Eclipse projects and wider Eclipse ecosystem. A healthy vibrant ecosystem that extends beyond the Eclipse open source community to include things like commercial products based on Eclipse, other open source projects using Eclipse, training and services providers, magazines and online portals, books, etc, are all key to the success of the Eclipse community. Eclipse 커뮤니티의 독특한 측면과 Eclipse Foundation의 역할은 Eclipse 프로젝트 및 광범위한 Eclipse 에코 시스템의 적극적인 마케팅 및 홍보입니다. Eclipse를 기반으로 한 상용 제품, Eclipse를 사용하는 다른 오픈 소스 프로젝트, 교육 및 서비스 제공 업체, 잡지 및 온라인 포털, 서적 등을 포함하여 Eclipse 오픈 소스 커뮤니티를 뛰어 넘는 건강한 활발한 생태계는 모두 성공의 열쇠입니다. Eclipse 커뮤니티.
+
+To assist in the development of the Eclipse ecosystem, the Eclipse Foundation organizes a number of activities, including co-operative marketing events with Member companies, community conferences, online resource catalogs (Eclipse Marketplace and the Eclipse YouTube Channel), bi-annual Members meetings and other programs to promote the entire Eclipse community. 이클립스 에코 시스템의 개발을 지원하기 위해 이클립스 재단은 회원사, 커뮤니티 컨퍼런스, 온라인 리소스 카탈로그 (이클립스 마켓 플레이스 및 이클립스 유튜브 채널)와의 협력 마케팅 이벤트, 연례 회원 회의 Eclipse 커뮤니티 전체를 홍보하기위한 기타 프로그램
+
+
+A Unique Model for Open Source Development 오픈 소스 개발을위한 독특한 모델
+
+The Eclipse Foundation has been established to serve the Eclipse open source projects and the Eclipse community. As an independent not-for-profit corporation, the Foundation and the Eclipse governance model ensures no single entity is able to control the strategy, policies or operations of the Eclipse community. 이클립스 재단은 이클립스 오픈 소스 프로젝트와 이클립스 커뮤니티를 지원하기 위해 설립되었다. 독립적 인 비영리 단체 인 Foundation과 Eclipse Governance 모델은 Eclipse 커뮤니티의 전략, 정책 또는 운영을 단일 엔티티가 제어 할 수 없도록 보장합니다.
+
+The Foundation is focused on creating an environment for successful open source projects and to promote the adoption of Eclipse technology in commercial and open source solutions. Through services like IP Due Diligence, annual release trains, development community support and ecosystem development, the Eclipse model of open source development is a unique and proven model for open source development.
+재단은 성공적인 오픈 소스 프로젝트를위한 환경을 조성하고 상용 및 오픈 소스 솔루션에서 Eclipse 기술의 채택을 촉진하는 데 중점을두고 있습니다. IP Due Diligence, 연례 배포판 열차, 개발 커뮤니티 지원 및 생태계 개발과 같은 서비스를 통해 오픈 소스 개발의 Eclipse 모델은 오픈 소스 개발을위한 독특하고 검증 된 모델입니다.
+
+History of Eclipse 이클립스의 역사
+
+Industry leaders Borland, IBM, MERANT, QNX Software Systems, Rational Software, Red Hat, SuSE, TogetherSoft and Webgain formed the initial eclipse.org Board of Stewards in November 2001. By the end of 2003, this initial consortium had grown to over 80 members. 업계 선두 기업인 Borland, IBM, MERANT, QNX Software Systems, Rational Software, Red Hat, SuSE, TogetherSoft 및 Webgain은 2001 년 11 월 eclipse.org Board of Stewards를 설립했습니다. 2003 년 말까지이 초기 컨소시엄은 80 개 이상으로 성장했습니다 회원.
+
+On Feb 2, 2004 the Eclipse Board of Stewards announced Eclipse’s reorganization into a not-for-profit corporation. Originally a consortium that formed when IBM released the Eclipse Platform into Open Source, Eclipse became an independent body that will drive the platform’s evolution to benefit the providers of software development offerings and end-users. All technology and source code provided to and developed by this fast-growing community is made available royalty-free via the Eclipse Public License.2004 년 2 월 2 일 이클립스 이사회 (Eclipse Board of Stewards)는 Eclipse의 비영리 법인 재편성을 발표했습니다. 원래 IBM이 이클립스 플랫폼을 오픈 소스로 발표했을 때 형성된 컨소시엄 인 이클립스는 소프트웨어 개발 제품 및 최종 사용자 제공 업체에게 이익을주기 위해 플랫폼의 발전을 주도 할 독립 기관이되었습니다. 급성장하는이 커뮤니티에서 제공하고 개발 한 모든 기술 및 소스 코드는 Eclipse Public License를 통해 무료로 제공됩니다.
+
+The founding Strategic Developers and Strategic Consumers were Ericsson, HP, IBM, Intel, MontaVista Software, QNX, SAP and Serena Software. 전략적 개발자 및 전략적 소비자 창립자는 에릭슨, HP, IBM, 인텔, 몬타 비스타 소프트웨어, QNX, SAP 및 세레나 소프트웨어였다.
+
+You can learn more about the structure and mission of the Eclipse Foundation by reading the formal documents that establish how the foundation operates, and by reading the press release announcing the creation of the independent organization. 이클립스 재단의 구조와 임무에 대한 자세한 내용은 재단 운영 방법을 설정하는 공식 문서를 읽고 독립적 인 조직의 작성을 알리는 보도 자료를 읽으십시오.
+
+For software licensing, website terms of use, and legal FAQs, please see our legal stuff page. Eclipse logos and graphics are found on our Eclipse logos page. 소프트웨어 라이선스, 웹 사이트 이용 약관 및 법률 FAQ에 대해서는 법률 자료 페이지를 참조하십시오. Eclipse 로고 및 그래픽은 Eclipse 로고 페이지에서 찾을 수 있습니다.
+>>>>>>> 12960ba230cd5b6224a911cc12644068bbefcd2a
 
 
 
@@ -315,7 +400,10 @@ ecosystem
 A Unique Model
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 12960ba230cd5b6224a911cc12644068bbefcd2a
 
 have a wish to…
 ~하기를 원하는 사람들
