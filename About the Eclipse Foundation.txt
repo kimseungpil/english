@@ -1,0 +1,220 @@
+
+information infrastructure
+정보 인프라스트럭처
+
+infrastructure 
+    1.인프라
+    2.시설
+    3.기반
+    4.사회간접자본
+
+Intellectual
+
+    1.지적인
+    2.지식인
+    3.지성인
+    4.인텔리
+
+property 
+
+    1.특성
+    2.재산
+    3.부동산
+    4.소유
+    5.토지
+
+
+ecosystem
+
+    생태계
+
+A Unique Model
+
+
+About the Eclipse Foundation
+이클립스 파운데이션에 관해서..
+
+    What is Eclipse and the Eclipse Foundation?
+    이클립스와 이클립스파운데이션은 무엇인가?
+
+    Services of the Foundation
+    파운데이션의 서비스 
+        IT Infrastructure IT 
+        Intellectual Property (IP) Management
+        Development Community Support
+        Ecosystem Development
+    A Unique Model for Open Source Development
+    What is the history of Eclipse?
+
+What is Eclipse and the Eclipse Foundation?
+
+
+
+have a wish to…
+~하기를 원하는 사람들
+~하고 싶다
+
+collaborate 
+
+    1.협력하다
+    2.공동으로 하다
+    3.협동하다
+
+commercially
+
+    1.상업적으로
+    2.상업적 견지에서 말하면
+    3.영리적으로
+
+
+comprise 
+
+    1.…을 구성하다
+    2.이루다
+    3.포함하다
+    4.차지하다
+    5.…에 해당하다
+
+
+extensible
+
+    1.뻗칠 수 있는
+    2.확장 가능한
+    3.신장성의
+
+deploying
+
+    1.배치하다
+    2.전개하다
+    3.알맞게 사용하다
+
+not-for-profit 
+
+    1.비영리적인
+    2.비영리 목적의
+
+cultivate
+
+    1.재배하다
+    2.양성하다
+    3.발전시키다
+    4.개발하다
+    5.조성하다
+
+
+
+complementary
+    1.보완적인
+    2.대체
+    3.보색
+    4.보강
+    5.부대
+
+originally 
+
+    1.원래
+    2.본래
+    3.처음에는
+    4.처음부터
+
+
+consortium
+    1.협회
+    2.컨소시엄
+    3.합작 기업
+
+vendor
+    1.판매자
+    2.노점
+    3.행상인
+
+
+steward
+    1.집사
+    2.승객 담당자
+    3.승무원
+
+
+transparent
+    1.투명한
+    2.속보이는
+    3.솔직한
+
+
+Eclipse is a community for individuals and organizations who wish to collaborate 
+on commercially-friendly open source software. 
+
+Its projects are focused on building an open development platform comprised of 
+extensible frameworks, tools and runtimes for building, deploying and 
+managing software across the lifecycle. 
+
+The Eclipse Foundation is a not-for-profit, 
+member supported corporation that hosts the Eclipse projects and 
+helps cultivate both an open source community and an ecosystem of 
+complementary products and services.
+
+The Eclipse Project was originally created by IBM in 
+November 2001 and supported by a consortium of software vendors. 
+
+The Eclipse Foundation was created in January 2004 as an 
+independent not-for-profit corporation to act as the steward of the Eclipse community. 
+
+The independent not-for-profit corporation was created to allow a vendor neutral and open, 
+transparent community to be established around Eclipse. Today, the Eclipse community consists of 
+individuals and organizations from a cross section of the software industry.
+
+The Eclipse Foundation is funded by annual dues from 
+our members and governed by a Board of Directors. 
+
+Strategic Developers and Strategic Consumers hold seats on this Board, 
+as do representatives elected by Add-in Providers and Open Source committers. 
+
+The Foundation employs a full-time professional staff to provide services to the 
+community but does not employ the open source developers, called committers, which 
+actually work on the Eclipse projects. Eclipse committers are typically employed by 
+organizations or are independent developers that volunteer their time to work on 
+an open source project.
+
+In general, the Eclipse Foundation provides four services to the Eclipse community: 
+1) IT Infrastructure, 2) IP Management,3) Development Process, and 4) Ecosystem Development. 
+Full-time staff are associated with each of these areas and work with the 
+greater Eclipse community to assist in meeting the needs of the stakeholders.
+
+IT Infrastructure
+
+The Eclipse Foundation manages the IT infrastructure for the Eclipse open source community, including Git code repositories, Bugzilla databases, development oriented mailing lists and forums, download site and web site. The infrastructure is designed to provide reliable and scalable service for the committers developing the Eclipse technology and the consumers who use the technology.
+Intellectual Property (IP) Management
+
+An important aspect of Eclipse is the focus on enabling the use of open source technology in commercial software products and services. We consciously promote and encourage software vendors to use Eclipse technology for building their commercial software products and services. This is made possible by the fact that all Eclipse projects are licensed under the Eclipse Public License (EPL), a commercial friendly OSI approved licensed.
+
+The Eclipse Foundation also undertakes a number of steps to attempt to ensure the pedigree of the intellectual property contained within Eclipse projects. The first step in the due diligence process is trying to ensure that all contributions are made by the rightful copyright holder and under the Eclipse Public License (EPL). All committers are required to sign a committer agreement that stipulates all of their contributions are their original work and are being contributed under the EPL. If a committer is sponsored to work on an Eclipse project by a Member organization, then that organization is asked to sign a Member Committer Agreement to ensure the intellectual property rights of the organization are contributed under the EPL.
+
+The second step is that the source code related to all contributions which are developed outside of the Eclipse development process are processed through the Eclipse Foundation IP approval process. This process includes analyzing selected code contributions to try to ascertain the provenance of the code, and license compatibility with the EPL. Contributions that contain code licensed under licenses not compatible with the EPL are intended to be screened out through this approval process and thus not added to an Eclipse project. The end result is a level of confidence that Eclipse open source projects release technology that can be safely distributed in commercial products.
+Development Community Support
+
+The Eclipse community has a well earned reputation for providing quality software in a reliable and predictable fashion. This is due to the commitment of the committers and organizations contributing to the open source projects. The Eclipse Foundation also provides services and support for the projects to help them achieve these goals.
+
+The Foundation staff help implement the Eclipse Development Process. This process assists new project startup and ensures that all Eclipse projects are run in an open, transparent and meritocratic manner. As part of this process, the Foundation organizes member community reviews for projects to ensure consistent interaction between the projects and the broader membership.
+
+The Eclipse community organizes an annual release train that provides a coordinated release of those Eclipse projects which wish to participate. The release train makes it easier for downstream consumers to adopt new releases of the projects because 1) all the projects are available on the same schedule, so you don't have to wait for independent project schedules, and 2) a level of integration testing occurs before the final release to help identify cross project issues.
+Ecosystem Development
+
+A unique aspect of the Eclipse community and the role of the Eclipse Foundation is the active marketing and promotion of Eclipse projects and wider Eclipse ecosystem. A healthy vibrant ecosystem that extends beyond the Eclipse open source community to include things like commercial products based on Eclipse, other open source projects using Eclipse, training and services providers, magazines and online portals, books, etc, are all key to the success of the Eclipse community.
+
+To assist in the development of the Eclipse ecosystem, the Eclipse Foundation organizes a number of activities, including co-operative marketing events with Member companies, community conferences, online resource catalogs (Eclipse Marketplace and the Eclipse YouTube Channel), bi-annual Members meetings and other programs to promote the entire Eclipse community.
+A Unique Model for Open Source Development
+
+The Eclipse Foundation has been established to serve the Eclipse open source projects and the Eclipse community. As an independent not-for-profit corporation, the Foundation and the Eclipse governance model ensures no single entity is able to control the strategy, policies or operations of the Eclipse community.
+
+The Foundation is focused on creating an environment for successful open source projects and to promote the adoption of Eclipse technology in commercial and open source solutions. Through services like IP Due Diligence, annual release trains, development community support and ecosystem development, the Eclipse model of open source development is a unique and proven model for open source development.
+History of Eclipse
+
+Industry leaders Borland, IBM, MERANT, QNX Software Systems, Rational Software, Red Hat, SuSE, TogetherSoft and Webgain formed the initial eclipse.org Board of Stewards in November 2001. By the end of 2003, this initial consortium had grown to over 80 members.
+
+On Feb 2, 2004 the Eclipse Board of Stewards announced Eclipse’s reorganization into a not-for-profit corporation. Originally a consortium that formed when IBM released the Eclipse Platform into Open Source, Eclipse became an independent body that will drive the platform’s evolution to benefit the providers of software development offerings and end-users. All technology and source code provided to and developed by this fast-growing community is made available royalty-free via the Eclipse Public License.
+
+The founding Strategic Developers and Strategic Consumers were Ericsson, HP, IBM, Intel, MontaVista Software, QNX, SAP and Serena Software.
+
+You can learn more about the structure and mission of the Eclipse Foundation by reading the formal documents that establish how the foundation operates, and by reading the press release announcing the creation of the independent organization.
+
+For software licensing, website terms of use, and legal FAQs, please see our legal stuff page. Eclipse logos and graphics are found on our Eclipse logos page.
